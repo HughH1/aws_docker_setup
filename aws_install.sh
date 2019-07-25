@@ -1,6 +1,6 @@
 #! /bin/bash
 
-sudo snap install docker
+sudo apt install docker
 
 sudo addgroup docker
 
